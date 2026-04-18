@@ -37,6 +37,7 @@
 * 🐳 REST APIs
 * 💳 eSewa & Khalti Integration
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -75,5 +76,7 @@
 💡 I turn ideas into real-world web applications 🚀
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Engineer;Tech+Enthusiast)
+
+
 
 
