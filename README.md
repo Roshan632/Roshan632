@@ -8,7 +8,7 @@
 
 * 🎓 BCA Student
 * 💻 Building **MERN Stack Projects**
-* 💳 Working on **eSewa & Khalti Payment Integration**
+* 💳 Working on **eSewa & Khalti Payment Integration in real world projects**
 * 🛠️ Love solving real-world problems with code
 * 📈 Currently improving **System Design & Backend Skills**
 
@@ -41,9 +41,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshan632\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan632\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -66,7 +66,7 @@
 
 * 📧 Email: [rosh45644@gmail.com](mailto:rosh45644@gmail.com)
 * 💼 LinkedIn: (https://www.linkedin.com/in/roshan-yadav-3a1b98285/)
-* 🌐 Portfolio:roshanyadav02.com.np
+* 🌐 Portfolio: (https://www.roshanyadav02.com.np/)
 
 ---
 
