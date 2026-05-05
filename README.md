@@ -40,8 +40,8 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan632&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan632&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Roshan632&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Roshan632&layout=compact&theme=radical" />
 </p>
 
 ## 🔥 Featured Projects
