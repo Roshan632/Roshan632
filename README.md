@@ -62,7 +62,7 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [rosh45644@gmail.com](mailto:rosh45644@gmail.com)
-* 💼 LinkedIn: (https://www.linkedin.com/in/roshan-yadav-3a1b98285/)
+* 💼 LinkedIn: (https://www.linkedin.com/in/whoezroshanyadav/))
 * 🌐 Portfolio: (https://www.roshanyadav02.com.np/)
 
 ---
